@@ -2,7 +2,7 @@
 
 Geospatial AI engineer building machine learning systems for Earth observation, environmental intelligence, and autonomous systems.
 
-I am the founder of [NeuralQ](https://NeuralQ.ai), based in Cape Town and originally from Tunisia. I work primarily with Python, PyTorch, geospatial data, computer vision, and cloud-native ML infrastructure.
+I am the founder of NeuralQ, based in Cape Town and originally from Tunisia. I work primarily with Python, PyTorch, geospatial data, computer vision, and cloud-native ML infrastructure.
 
 ## Current Focus
 
