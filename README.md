@@ -18,6 +18,5 @@ I am contributing to PyTorch, currently focusing on developer experience, editab
 
 ## Connect
 
-- Website: [NeuralQ.ai](https://NeuralQ.ai)
 - GitHub: [@khlaifiabilel](https://github.com/khlaifiabilel)
 - Email: [khlaifiabilel@icloud.com](mailto:khlaifiabilel@icloud.com)
