@@ -14,7 +14,7 @@ I am the founder of [NeuralQ](https://NeuralQ.ai), based in Cape Town and origin
 
 ## Open Source
 
-I am contributing to PyTorch, currently focusing on developer experience, editable builds, C++ extensions, and custom operator tooling.
+I am contributing to [PyTorch](https://github.com/pytorch/pytorch), currently focusing on developer experience, editable builds, C++ extensions, and custom operator tooling.
 
 ## Connect
 
