@@ -1,11 +1,23 @@
-<div align="center">
-<h1 align="center">Hi 👋, I'm Bilel Khlaifia</h1>
-<h3 align="center">An AI Research Engineer and Founder of Fynbos Ltd.</h3>
+# Bilel Khlaifia
 
-<p>🔭 I’m currently working on projects like <strong><a href="https://github.com/fynbosltd/sentinel2-super-resolution">Sentinel-2 satellite image super-resolution</a></strong> and <strong><a href="https://github.com/nextav/nextview-frontend">geospatial frontend applications</a></strong>.</p>
-<p>🏢 I'm the founder of <strong><a href="https://github.com/NeuralQ">@NeuralQ</a></strong>, where we focus on geospatial AI solutions.</p>
-<p>🌱 I’m always learning and exploring new frontiers in <strong>AI/ML and cloud-native technologies</strong>.</p>
-<p>👯 I’m looking to collaborate on open source projects involving <strong>geospatial data, computer vision, and web applications</strong>.</p>
-<p>💬 Ask me about <strong>Python, AI/ML, Geospatial Imaging, and React</strong>.</p>
-<p>📫 How to reach me: <strong>khlaifiabilel@icloud.com</strong></p>
-</div>
+Geospatial AI engineer building machine learning systems for Earth observation, environmental intelligence, and autonomous systems.
+
+I am the founder of [NeuralQ](https://NeuralQ.ai), based in Cape Town and originally from Tunisia. I work primarily with Python, PyTorch, geospatial data, computer vision, and cloud-native ML infrastructure.
+
+## Current Focus
+
+- Satellite image super-resolution and restoration
+- Remote-sensing foundation models and segmentation
+- Environmental forecasting and emissions intelligence
+- PyTorch developer tooling, C++ extensions, and custom operators
+- Production ML APIs and deployment infrastructure
+
+## Open Source
+
+I am contributing to PyTorch, currently focusing on developer experience, editable builds, C++ extensions, and custom operator tooling.
+
+## Connect
+
+- Website: [NeuralQ.ai](https://NeuralQ.ai)
+- GitHub: [@khlaifiabilel](https://github.com/khlaifiabilel)
+- Email: [khlaifiabilel@icloud.com](mailto:khlaifiabilel@icloud.com)
